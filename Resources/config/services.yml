@@ -1,0 +1,4 @@
+services:
+    tomarq.detector:
+        class: Tomarq\Detect\Detector
+
