@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://svn.tomarq.co.uk/php/tomarq/libs/detect"
+      "url": "https://github.com/Tomarqm/detect"
     }
   ]
 }
